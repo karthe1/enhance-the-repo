@@ -1,4 +1,4 @@
-package com.karthick.questions;
+package com.karthick.validate;
 
 import java.io.BufferedReader;
 import java.io.IOException;

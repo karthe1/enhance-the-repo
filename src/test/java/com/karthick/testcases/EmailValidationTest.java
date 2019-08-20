@@ -11,7 +11,7 @@ import org.mockito.InjectMocks;
 import org.mockito.Spy;
 import org.mockito.junit.MockitoJUnitRunner;
 
-import com.karthick.questions.ValidateMailAddress;
+import com.karthick.validate.ValidateMailAddress;
 
 /**
  * 
